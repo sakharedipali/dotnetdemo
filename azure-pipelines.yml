@@ -9,7 +9,7 @@ trigger:
 - master
 
 pool:
-  name: agentpool123
+  name: batch1
 
 variables:
   buildConfiguration: 'Release'
